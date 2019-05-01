@@ -9,7 +9,7 @@
 }
 .box_1 {
 }
-.button {
+.box_3 {
 }
 .primary_button {
   color:#FFFFFF;
@@ -62,6 +62,8 @@
 ._文本段落 {
   text-align:left;
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -70,15 +72,22 @@
   color:#000000;
   text-align:left;
 }
-.list_box {
+.droplist {
   color:#000000;
   text-align:left;
 }
-.html_button {
-  text-align:center;
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+._流程形状 {
 }
 .table_cell {
 }
 .sticky_1 {
   text-align:left;
+}
+.flow_shape {
 }
